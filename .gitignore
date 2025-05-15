@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -16,3 +17,23 @@ MemoryCaptures/
 *.idea/
 .vscode/
 .DS_Store
+=======
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.unityproj
+*.sln
+*.user
+*.csproj
+*.idea/
+.vscode/
+.DS_Store
+>>>>>>> 84695c424396865006bae8913d01698a4204457f
