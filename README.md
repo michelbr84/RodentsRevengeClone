@@ -1,6 +1,5 @@
 <h1 align="center">🐭 Rodent's Revenge Clone 🧱</h1>
 
-> Rodent's Revenge Clone  
 > This project is a clone of the classic game *Rodent's Revenge*, built using Unity. The game is a puzzle game where the player controls a mouse that must trap cats by pushing blocks.
 
 <p align="center">
@@ -37,7 +36,6 @@ Rodent's Revenge is a tile-based puzzle game where the player (a mouse) must str
 1. Clone this repository:
    ```bash
    git clone https://github.com/michelbr84/RodentsRevengeClone.git
-````
 
 2. Open the project in Unity:
 
